@@ -1,7 +1,5 @@
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=2000&pause=1000&color=00c853&background=b9f0d0&center=true&vCenter=true&width=510&lines=Next.js+%2B+Tailwind+CSS+%2B+Firebase;Building+the+Future;Full-Stack+Magic)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=36BCF7FF&background=FF000000&center=true&vCenter=true&width=510&lines=Next.js+%2B+Tailwind+CSS+%2B+Firebase+%3D+%E2%9D%A4)](https://git.io/typing-svg)
+<img src="https://i.ibb.co/TMsRHsDY/Gemini-Generated-Image-btr9gybtr9gybtr9.jpg" width="400" height="400" style="border-radius: 50%; box-shadow: 0 0 0 4px #2ecc71, 0 0 0 8px #27ae60, 0 0 0 12px #219a52;" />
 
-<img src="https://i.postimg.cc/Y2Z17rFN/An-Indian-young-boy-walking-on-the-road-sipping-tea-and-listening-to-music.jpg" width="400" height="400" style="border-radius: 50%;">
-
-<p><i>Comparing yourself to others can be the definition of stupidness : )</i></p>
+<p style="background: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%); padding: 20px; border-radius: 10px; margin: 20px 0;"><i>Comparing yourself to others can be the definition of stupidness 🫤</i></p>
