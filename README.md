@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co/SDHj3zTs/IMG-20250605-113803.jpg" width="200" height="150" style="border-radius: 50%;" />
-</div>
+ 
 
 <div align="center">
   
